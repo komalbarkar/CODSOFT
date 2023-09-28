@@ -1,2 +1,2 @@
 # CODSOFT
-GitHub repo
+Data Science Internship Tasks
